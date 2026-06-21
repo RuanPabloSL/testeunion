@@ -1,0 +1,20 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "São José do Alegre",
+			"country": {
+				"code": "BR",
+				"name": "Brazil"
+			},
+			"subdivision": {
+				"code": "MG",
+				"name": "Minas Gerais"
+			},
+			"timezone": "America/Sao_Paulo",
+			"latitude": -22.3432,
+			"longitude": -45.522,
+			"postalCode": "37510"
+		},
+		"timestamp": 1780619961197
+	}
+}
